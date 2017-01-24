@@ -1,3 +1,6 @@
 # mynewrepo
+Hello World !
 This is my new repository
-Install at your own risk 
+I do not know much about Git but I can get started.
+Programming is fun so let's have some fun
+
